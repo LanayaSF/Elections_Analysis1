@@ -26,5 +26,3 @@ Election winner: Diana Degette, 272,892, 73.8%
 
 This code can be re-used to audit vote counting in other congressional dictricts and senatorial districts and local elections. 
 
-### Summary
-
